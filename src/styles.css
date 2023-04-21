@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+.error{
+    color: red;
+    text-shadow: 1px 1px gray;
+}
